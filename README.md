@@ -4,7 +4,7 @@
 
 <h2 align="left">Nom Nom 🦜</h2>
 
-<img align="right" height="220" src="https://i.pinimg.com/736x/d1/b7/b6/d1b7b6890da577ef2c32ae3f149634bc.jpg" alt="Profile Character" />
+<img align="right" height="220" src="https://images2.imgbox.com/d1/b9/VWxW92MK_o.png" alt="Profile Character" />
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />&nbsp;&nbsp;
