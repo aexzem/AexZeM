@@ -35,7 +35,7 @@
 * 🤖 **Node.js & Apps:** Building custom apps, back-end logic, and developing custom server tools or security guards.
 * ⚙️ **APIs & Automation:** Playing around with APIs and automation tools to make things work seamlessly.
 
-**Currently Working On:** 15k JS Code to TS Migration
+**Currently Working On:** Minecraft Mod 
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aexzem/aexzem/pacman-output/breakout-contribution-graph-dark.svg" />
